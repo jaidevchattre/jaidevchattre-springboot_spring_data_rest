@@ -1,7 +1,7 @@
 Spring Data Rest
 no REST Controller required
 no DAO required
-added spring-data-rest starter dependemcy and all endpoints are provided by spring
+added spring-data-rest starter dependency and all endpoints are provided by spring
 APIS are HATEOAS compliant
 
 Required for SPRING DATA REST to work 

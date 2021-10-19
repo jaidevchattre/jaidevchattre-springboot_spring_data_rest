@@ -1,4 +1,4 @@
-package com.springboot_jpa.demo.entity;
+package com.springboot_spring_data_rest.demo.entity;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

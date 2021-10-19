@@ -1,4 +1,4 @@
-package com.springboot_jpa.demo.security;
+package com.springboot_spring_data_rest.demo.security;
 import java.util.Arrays;
 
 import org.springframework.context.annotation.Bean;

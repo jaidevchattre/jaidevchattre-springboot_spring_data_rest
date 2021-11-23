@@ -13,7 +13,7 @@ APIS provided
 GET /employees
 GET /employees/{employeeId}
 POST /employees
-PUT /employees/{employeeId}
+PUT /employees/
 DELETE /employees/{employeeId}
 
 
